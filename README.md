@@ -1206,7 +1206,7 @@
 
                 <div class="carnet-body">
                     <div class="foto-marco">
-                        <img src="im/sergio.jpg" onerror="this.src='https://ui-avatars.com/api/?name=Sergio+Tapiero&background=ffd700&color=000&size=200'" alt="Foto Conductor" class="foto-conductor">
+                        <img src=" https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/699116233_989437980648237_9201268186456313724_n.jpg?stp=dst-jpg_tt6&cstp=mx944x1135&ctp=s944x1135&_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF20nckf-W9D3ZFO7cEU1xSlECitdgceRmUQKK12Bx5GWvzlgUUxyauRT7-iPD92RZ-aTX-rvfv8ZiXQ66KkWHV&_nc_ohc=gxdvSRKUXnkQ7kNvwH8WqQ0&_nc_oc=AdqGX60bjXKBWj1ceGkZ8s_Nl-gyLmsiZyaXsmt-6h8ix8i-kmGDyJS8wE1suU0kd0A&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=2ZhL4AnLEcgrYggw4zQ7wA&_nc_ss=7b2a8&oh=00_AQGikKLstA15EhhrMzhJ_lwprXU-tlo_gftb3RHt08PChg&oe=6A8DB56A" onerror="this.src='https://ui-avatars.com/api/?name=Sergio+Tapiero&background=ffd700&color=000&size=200'" alt="Foto Conductor" class="foto-conductor">
                         <div class="badge-verificado-icono">
                             <span class="material-icons" style="font-size: 18px;">check_circle</span>
                         </div>
@@ -1234,7 +1234,7 @@
 
                     <div class="qr-destacado-container">
                         <div class="qr-code-lg">
-                            <img src="im/NEQUI.jpg" alt="Código QR WhatsApp">
+                            <img src="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/776224167_122117127363318735_1569553498169488314_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s2048x2048&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=acZEWJ2SiIMQ7kNvwEhGASd&_nc_oc=AdpsIKjJ4q091H4UtkOSX7o3HXi-fkS4nk_PFZKyzfoEabZrwtbMIMYUFwIOmDZ4hUk&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=IaZSX4CnQsy-RUZYL4MaNg&_nc_ss=7b2a8&oh=00_AQFCn0EW_57uuAUNxx49t1Pw1eCsYqhurSWvv1KN2_k96Q&oe=6A8DD144" alt="Código QR WhatsApp">
                         </div>
                     </div>
                 </div>
@@ -1253,7 +1253,7 @@
                 <div class="perforacion-lanyard"></div>
                 
                 <div class="carnet-header">
-                    <img src="im/LOGO FODO BLANCO.png" alt="SegurApp Logo" class="logo" style="max-width: 250px;">
+                    <img src="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/779323005_122117427681318735_2031315816040041680_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s2048x2048&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wjqaYQyhMqMQ7kNvwHhbLRr&_nc_oc=AdqrwQYFrrpqb9myiexGiJLu0UjjBnxUyB-exAun21aULMQb_SIoZG81V4UJ-sVN-D8&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=wOMHHuwyxKz37jCMtbLEEA&_nc_ss=7b2a8&oh=00_AQHmETtRU7Lh27W45hofDd7WgToFJYNvZzWw0d1mjd4M6A&oe=6A8DBBD2" alt="SegurApp Logo" class="logo" style="max-width: 250px;">
                     <div class="sub-brand">Información y Valoración</div>
                 </div>
 
@@ -1512,7 +1512,7 @@
         <div class="modal-contenido">
             <div class="modal-header">
                 <div class="modal-titulo" style="display: flex; align-items: center; gap: 10px;">
-                    <img src="im/logo fondo negro.png" alt="SegurApp Logo" style="height: 50px; width: auto; object-fit: contain;">
+                    <img src="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/762404541_122113498089318735_2648448917068400992_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s2048x2048&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mGmYOOWmg8sQ7kNvwHgJb_U&_nc_oc=AdriBDFiD1RlWEULfa4DVGG6Dbrn5mG_UmGyDQQYAAzDg8gu7oCQ6Qupb9gV-bcomrk&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=i8rHeoTssz7CXab1o0kxzQ&_nc_ss=7b2a8&oh=00_AQESo0KmB5qrtJ-xKX2OBC7X-Fr8iTdkf5IouiQT_9t5gA&oe=6A8DB87F" alt="SegurApp Logo" style="height: 50px; width: auto; object-fit: contain;">
                     <span>Términos y Condiciones</span>
                 </div>
                 <button class="btn-cerrar" onclick="cerrarTerminos()">
