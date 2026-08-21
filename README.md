@@ -1232,11 +1232,7 @@
                         </div>
                     </div>
 
-                    <div class="qr-destacado-container">
-                        <div class="qr-code-lg">
-                            <img src="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/776224167_122117127363318735_1569553498169488314_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s2048x2048&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=acZEWJ2SiIMQ7kNvwEhGASd&_nc_oc=AdpsIKjJ4q091H4UtkOSX7o3HXi-fkS4nk_PFZKyzfoEabZrwtbMIMYUFwIOmDZ4hUk&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=IaZSX4CnQsy-RUZYL4MaNg&_nc_ss=7b2a8&oh=00_AQFCn0EW_57uuAUNxx49t1Pw1eCsYqhurSWvv1KN2_k96Q&oe=6A8DD144" alt="Código QR WhatsApp">
-                        </div>
-                    </div>
+                   
                 </div>
 
                 <div class="carnet-footer">
